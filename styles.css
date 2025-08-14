@@ -130,11 +130,11 @@ header.scrolled {
 }
 
 .slide:nth-child(1) {
-  background-image: url(/Cat\ Adoption\ Project/Images/tabby-cat-looking-up.jpg);
+  background-image: url(/Images/tabby-cat-looking-up.jpg);
 }
 
 .slide:nth-child(2) {
-  background-image: url(/Cat\ Adoption\ Project/Images/tortie-cat-looking-up-min.jpg);
+  background-image: url(/Images/tortie-cat-looking-up-min.jpg);
 }
 
 .section-caption {
